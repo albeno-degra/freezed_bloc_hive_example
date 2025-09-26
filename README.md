@@ -1,4 +1,3 @@
-# freezed_bloc_hive_example
 
 ## About
 A demo Flutter project showcasing best practices for using **Freezed**, **Bloc/Cubit**, **Hive**, and **Clean Architecture** principles.
@@ -12,7 +11,7 @@ A demo Flutter project showcasing best practices for using **Freezed**, **Bloc/C
 ### Features
 - Theme management: toggle between light and dark modes, persist theme in Hive, reactive UI updates via Cubit
 - Freezed + Hive integration, including storing enums and custom adapters
-- Cubit with multiple states and UI reaction via /
+- Cubit with multiple states and UI reaction via maybeWhen/when
 - Easily extendable structure following clean architecture principles
 
 ### Purpose
